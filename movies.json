@@ -1,10 +1,10 @@
 {
-  movies: [
+  "movies": [
     {
-    id : 1,
-    name: 'coco',
-    csv: 'https://raw.githubusercontent.com/ripper2hl/movie-colors-csv/master/coco.csv'
-    idApi: ''
+    "id" : 1,
+    "name": "coco",
+    "csv": "https://raw.githubusercontent.com/ripper2hl/movie-colors-csv/master/coco.csv"
+    "idApi": ""
     }
   ]
 }
