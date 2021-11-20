@@ -4,5 +4,27 @@
 		"name": "coco",
 		"csv": "https://raw.githubusercontent.com/ripper2hl/movie-colors-csv/master/coco.csv",
 		"idApi": ""
-	}]
+	},{
+		"id": 2,
+		"name": "Spider man into the spider verse",
+		"csv": "https://raw.githubusercontent.com/ripper2hl/movie-colors-csv/master/spider-man-into-the-spider-verse.csv",
+		"idApi": ""
+	},{
+		"id": 3,
+		"name": "Sonic 2020",
+		"csv": "https://raw.githubusercontent.com/ripper2hl/movie-colors-csv/master/sonic-2020.csv",
+		"idApi": ""
+	},
+  {
+    "id": 4,
+    "name": "Billie Elish Bad Guy",
+    "csv": "https://raw.githubusercontent.com/ripper2hl/movie-colors-csv/master/cardi-b-wap.csv",
+    "idApi": ""
+  },
+  {
+    "id": 5,
+    "name": "Cardi B Wap",
+    "csv": "https://raw.githubusercontent.com/ripper2hl/movie-colors-csv/master/billie-eilish-bad-guy.csv",
+    "idApi": ""
+  }]
 }
