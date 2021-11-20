@@ -3,7 +3,7 @@
     {
     id : 1,
     name: 'coco',
-    csv: ''
+    csv: 'https://raw.githubusercontent.com/ripper2hl/movie-colors-csv/master/coco.csv'
     idApi: ''
     }
   ]
