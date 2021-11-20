@@ -3,28 +3,33 @@
 		"id": 1,
 		"name": "coco",
 		"csv": "https://raw.githubusercontent.com/ripper2hl/movie-colors-csv/master/coco.csv",
-		"idApi": ""
+		"idApi": "",
+		"img": "https://image.tmdb.org/t/p/w500//gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg"
 	},{
 		"id": 2,
 		"name": "Spider man into the spider verse",
 		"csv": "https://raw.githubusercontent.com/ripper2hl/movie-colors-csv/master/spider-man-into-the-spider-verse.csv",
-		"idApi": ""
+		"idApi": "",
+		"img": "http://image.tmdb.org/t/p/w500//iiZZdoQBEYBv6id8su7ImL0oCbD.jpg"
 	},{
 		"id": 3,
 		"name": "Sonic 2020",
 		"csv": "https://raw.githubusercontent.com/ripper2hl/movie-colors-csv/master/sonic-2020.csv",
-		"idApi": ""
+		"idApi": "",
+		"img": "https://image.tmdb.org/t/p/w500//aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg"
 	},
   {
     "id": 4,
     "name": "Billie Elish Bad Guy",
     "csv": "https://raw.githubusercontent.com/ripper2hl/movie-colors-csv/master/cardi-b-wap.csv",
-    "idApi": ""
+    "idApi": "",
+		"img":"https://i.pinimg.com/564x/8e/50/a9/8e50a97769f327d8d4829ae78ffe1794.jpg"
   },
   {
     "id": 5,
     "name": "Cardi B Wap",
     "csv": "https://raw.githubusercontent.com/ripper2hl/movie-colors-csv/master/billie-eilish-bad-guy.csv",
-    "idApi": ""
+    "idApi": "",
+		"img":"https://images.coveralia.com/audio/c/Cardi_B-Wap_(Featuring_Megan_Thee_Stallion)_(Cd_Single)-Frontal.jpg?252"
   }]
 }
