@@ -31,5 +31,12 @@
     "csv": "https://raw.githubusercontent.com/ripper2hl/movie-colors-csv/master/billie-eilish-bad-guy.csv",
     "idApi": "",
 		"img":"https://images.coveralia.com/audio/c/Cardi_B-Wap_(Featuring_Megan_Thee_Stallion)_(Cd_Single)-Frontal.jpg?252"
+  },
+  {
+    "id": 6,
+    "name": "Example colors",
+    "csv": "https://raw.githubusercontent.com/ripper2hl/movie-colors-csv/master/example-colors-x2.csv",
+    "idApi": "",
+		"img":"https://images.unsplash.com/photo-1464820453369-31d2c0b651af?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2080&q=80"
   }]
 }
