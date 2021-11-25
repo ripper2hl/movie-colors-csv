@@ -45,5 +45,12 @@
     "csv": "https://raw.githubusercontent.com/ripper2hl/movie-colors-csv/master/avengers-endgame.csv",
     "idApi": "",
 		"img":"https://m.media-amazon.com/images/M/MV5BZmRmNjhmOGItNWMzNi00NTMyLTgzZTktY2UxMzQ4YjhhN2YxXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_FMjpg_UX1280_.jpg"
+  },
+	{
+    "id": 8,
+    "name": "Tony vs thanos",
+    "csv": "https://raw.githubusercontent.com/ripper2hl/movie-colors-csv/master/tony-vs-thanos.csv",
+    "idApi": "",
+		"img":"https://m.media-amazon.com/images/M/MV5BZmRmNjhmOGItNWMzNi00NTMyLTgzZTktY2UxMzQ4YjhhN2YxXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_FMjpg_UX1280_.jpg"
   }]
 }
