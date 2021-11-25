@@ -38,5 +38,12 @@
     "csv": "https://raw.githubusercontent.com/ripper2hl/movie-colors-csv/master/example-colors-x2.csv",
     "idApi": "",
 		"img":"https://images.unsplash.com/photo-1464820453369-31d2c0b651af?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2080&q=80"
+  },
+	{
+    "id": 7,
+    "name": "Avengers Endgame",
+    "csv": "https://raw.githubusercontent.com/ripper2hl/movie-colors-csv/master/avengers-endgame.csv",
+    "idApi": "",
+		"img":"https://m.media-amazon.com/images/M/MV5BZmRmNjhmOGItNWMzNi00NTMyLTgzZTktY2UxMzQ4YjhhN2YxXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_FMjpg_UX1280_.jpg"
   }]
 }
