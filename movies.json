@@ -59,5 +59,33 @@
     "csv": "https://raw.githubusercontent.com/ripper2hl/movie-colors-csv/master/luca.csv",
     "idApi": "",
 		"img":"https://www.themoviedb.org/t/p/original/j93NHWoTjdsL4sdz058M3AvKrMy.jpg"
+  },
+	{
+    "id": 10,
+    "name": "Cruela",
+    "csv": "https://raw.githubusercontent.com/ripper2hl/movie-colors-csv/master/cruela.csv",
+    "idApi": "",
+		"img":"https://www.themoviedb.org/t/p/original/tNFBP5OTmKm7CTc5ptUwgmepd8G.jpg"
+  },
+	{
+    "id": 11,
+    "name": "Avengers infinity war",
+    "csv": "https://raw.githubusercontent.com/ripper2hl/movie-colors-csv/master/avengers-infinity-war.csv",
+    "idApi": "",
+		"img":"https://www.themoviedb.org/t/p/original/ksBQ4oHQDdJwND8H90ay8CbMihU.jpg"
+  },
+	{
+    "id": 12,
+    "name": "Spider Man Far home",
+    "csv": "https://raw.githubusercontent.com/ripper2hl/movie-colors-csv/master/spider-man-far-home.csv",
+    "idApi": "",
+		"img":"https://www.themoviedb.org/t/p/original/iKVR1ba3W1wCm9bVCcpnNvxQUWX.jpg"
+  },
+	{
+    "id": 13,
+    "name": "Kong vs godzilla",
+    "csv": "https://raw.githubusercontent.com/ripper2hl/movie-colors-csv/master/kong-vs-godzilla.csv",
+    "idApi": "",
+		"img":"https://www.themoviedb.org/t/p/original/yJTk4eqQd9Yo5REpFbTSOMkbSgn.jpg"
   }]
 }
