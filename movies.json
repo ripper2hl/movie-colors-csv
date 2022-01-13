@@ -115,5 +115,13 @@
     "csv": "https://raw.githubusercontent.com/ripper2hl/movie-colors-csv/master/matrix-resurrections.csv",
     "idApi": "",
 		"img":"https://www.themoviedb.org/t/p/original/hF7jgEhP4ypR2oS5BQD1pxbg7QY.jpg"
-  }]
+  },
+	{
+    "id": 18,
+    "name": "Eternals",
+    "csv": "https://raw.githubusercontent.com/ripper2hl/movie-colors-csv/master/eternals.csv",
+    "idApi": "",
+		"img":"https://www.themoviedb.org/t/p/original/lyvszvJJqqI8aqBJ70XzdCNoK0y.jpg"
+  }
+]
 }
